@@ -114,6 +114,30 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Modern Event Viewer for Windows Server",
+      href: "#",
+      dates: "May 2026",
+      active: true,
+      description:
+        "Modern event log viewer for Windows Server environments, focused on faster filtering, clearer diagnostics, and a more usable interface for reviewing system and application events.",
+      technologies: ["Electron", "React", "Vite", "Node.js", "JavaScript / JSX"],
+      image: "/event-viewer.png",
+      video: "",
+      links: [],
+    },
+    {
+      title: "Remote Touchpad for Android",
+      href: "#",
+      dates: "April 2026",
+      active: true,
+      description:
+        "An Android app that turns a phone into a wireless keyboard, mouse, touchpad, and media remote for a PC using the standard Bluetooth HID profile.",
+      technologies: ["Android", "Kotlin", "Bluetooth HID", "Material Components", "XML Layouts"],
+      image: "/rc-app-views.png",
+      video: "",
+      links: [],
+    },
+    {
       title: "Barcode Scanning App for Android",
       href: "#",
       dates: "Jul 2025 - Sept 2025",
